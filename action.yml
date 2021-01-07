@@ -1,5 +1,8 @@
 name: "Homebrew Releaser"
 description: "Release scripts, binaries, and executables directly to Homebrew via GitHub Actions."
+branding:
+  icon: "package"
+  color: "orange"
 inputs:
   owner:
     description: "GitHub owner (username)"
